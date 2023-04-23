@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "build": "echo \"No build specified\" && exit 1",
+        "build": "python build.py",
         "test": "echo \"No test specified\" && exit 1",
         "start": "node index.js"
     },
@@ -17,7 +17,5 @@
         "url": "https://github.com/margoh96/blogpost-flask/issues"
     },
     "homepage": "https://github.com/margoh96/blogpost-flask#readme",
-    "scripts": {
-        "build": "python build.py"
-    }
+   
 }
