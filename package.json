@@ -1,0 +1,21 @@
+{
+    "name": "blogpost-flask",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "python build.py",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/margoh96/blogpost-flask.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/margoh96/blogpost-flask/issues"
+    },
+    "homepage": "https://github.com/margoh96/blogpost-flask#readme"
+   
+}
