@@ -1,4 +1,4 @@
-from flask import Flask
+import flask
 from flask.cli import FlaskGroup
 
 def setup_app():
